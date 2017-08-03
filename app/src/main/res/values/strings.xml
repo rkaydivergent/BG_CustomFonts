@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyCustomFonts</string>
+    <string name="alpha_echo">ALPHA_ECHO</string>
+    <string name="test_fonts_on_this_text">Test fonts on this text</string>
+    <string name="aquiline">Aquiline</string>
+    <string name="archistico">ARCHISTICO</string>
+    <string name="bearpaw">BEARPAW</string>
+    <string name="black_rose">BLACK ROSE</string>
+    <string name="chantelli">CHANTELLI</string>
+</resources>
